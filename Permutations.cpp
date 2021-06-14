@@ -1,4 +1,4 @@
-include <bits/stdc++.h>
+#include <bits/stdc++.h>
 #include<string.h>
 using namespace std;
 void permutasing(string s, string ss, int n, int vi[])
