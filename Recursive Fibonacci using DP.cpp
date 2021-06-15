@@ -1,7 +1,6 @@
 #include<iostream>
 using namespace std;
 int dp[10000];
-
 int fib(int n)
 {
   if(n<=1)
